@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.novrezza.ujianonline"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="16" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Splash"
+            android:label="@string/title_activity_splash" >
+             <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>      
+        </activity>
+         <activity
+            android:name=".Home"
+            android:label="@string/title_activity_home" >
+           
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".Mapel"
+            android:label="@string/title_activity_mapel" >
+        </activity>
+        <activity
+            android:name=".Soalmtk"
+            android:label="@string/title_activity_soalmtk" >
+        </activity>
+        <activity
+            android:name=".Login"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".Soalbing"
+            android:label="@string/title_activity_soalbing" >
+        </activity>
+        <activity
+            android:name=".Soalbindo"
+            android:label="@string/title_activity_soalbindo" >
+        </activity>
+       
+    </application>
+
+</manifest>

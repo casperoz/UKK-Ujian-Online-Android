@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ 	android:background="#C5EFF7"
+    tools:context="com.novrezza.ujianonline.Mapel" >
+    
+    <ScrollView 
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical"
+        android:gravity="center_horizontal" >
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/judul" />
+
+    <Button
+        android:id="@+id/btnindo"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginTop="43dp"
+        android:background="#fff"
+        android:text="Bahasa Indonesia" />
+
+    <Button
+        android:id="@+id/btnmtk"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="#fff"
+        android:text="Matematika" />
+
+    <Button
+        android:id="@+id/btning"
+        android:layout_width="180dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:background="#fff"
+        android:text="Bahasa Inggris" />
+    
+    </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

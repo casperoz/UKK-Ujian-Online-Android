@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:background="#C5EFF7"
+    tools:context="com.novrezza.ujianonline.Home">
+
+    <ScrollView 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scrollbars="vertical">
+        
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="center"
+        android:orientation="vertical">
+        
+        <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="22dp"
+        android:text="Selamat Datang di "
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView1"
+        android:layout_centerHorizontal="true"
+        android:text="Ujian Online Android"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+        
+        <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/judul" />
+
+    <Button
+        android:id="@+id/btnlogin"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+		android:layout_marginRight="20dp"		
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/imageView1"
+        android:layout_alignRight="@+id/imageView1"
+        android:layout_centerVertical="true"
+        android:background="#fff"
+        android:text="Masuk" />
+    
+        
+
+    <Button
+        android:id="@+id/btnkeluar"
+        android:layout_width="fill_parent"
+        android:layout_marginLeft="20dp"
+		android:layout_marginRight="20dp"	
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnlogin"
+        android:layout_alignRight="@+id/btnlogin"
+        android:layout_below="@+id/btnlogin"
+        android:layout_marginTop="22dp"
+        android:background="#fff"
+        android:text="Keluar" />
+
+    
+
+    
+        
+        
+    </LinearLayout>
+    
+    </ScrollView>
+
+</LinearLayout>
