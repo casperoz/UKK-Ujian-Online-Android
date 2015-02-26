@@ -27,11 +27,11 @@ data user langsung anda akan ber ujian di android anda.
 
 KREDIT
 ======
-•	Nama 		: Novreza Hakim
-•	Kelas 		: XII-RPL
-•	Sekolah 	: SMK NEGERI 10 JAKARTA
-•	Email 		: novreza.exotic@gmail.com
-•	Blogger 	: http://novrezza.blogspot.com
+•	Nama 		: Novreza Hakim<br>
+•	Kelas 		: XII-RPL<br>
+•	Sekolah 	: SMK NEGERI 10 JAKARTA<br>
+•	Email 		: novreza.exotic@gmail.com<br>
+•	Blogger 	: http://novrezza.blogspot.com<br>
 •	Facebook	: https://www.facebook.com/novreza.pgn
 
 
