@@ -1,4 +1,4 @@
-# UKK-Ujian-Online-Android
+# Ujian Online berbasis Android
 
 Version 1.0.1
 by Novreza Hakim
@@ -17,4 +17,21 @@ MANFAAT APLIKASI
 PENGGUNA
 ========
 Semua siswa sekolah yang ingin berujian secara online.
+
+KEGIATAN
+========
+User disini akan menikmati ujian secara berbeda karena di aplikasi ini 
+ujiannya melalui handphone smartphone berbasis android. 
+Disini user bisa lansung menikmati ujian secara online, cukup dengan menginput/login 
+data user langsung anda akan ber ujian di android anda.
+
+KREDIT
+======
+•	Nama 		: Novreza Hakim
+•	Kelas 		: XII-RPL
+•	Sekolah 	: SMK NEGERI 10 JAKARTA
+•	Email 		: novreza.exotic@gmail.com
+•	Blogger 	: http://novrezza.blogspot.com
+•	Facebook	: https://www.facebook.com/novreza.pgn
+
 
