@@ -25,6 +25,16 @@ ujiannya melalui handphone smartphone berbasis android.
 Disini user bisa lansung menikmati ujian secara online, cukup dengan menginput/login 
 data user langsung anda akan ber ujian di android anda.
 
+FITUR-FITUR
+===========
+1.	Bisa Login<br>
+2.	Pilih Mata Pelajaran<br>
+3.	Bisa Mendengarkan soal Listening di Pelajaran B.Inggris<br>
+4.	Bisa Jawab soal dengan Pilihan Ganda<br>
+5.	Soal Listening otomatis mati jika di back<br>
+6.	Bisa Langsung cek Hasil Ujian<br>
+
+
 KREDIT
 ======
 •	Nama 		: Novreza Hakim<br>
